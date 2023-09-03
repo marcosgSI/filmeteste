@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Chicago PD S10 E18" tvg-logo="http://5ce.co:80/images/3k9YHHlENlcIT8g2BqeXsaDI2Hh_big.jpg" group-title="Amazon Prime Video",Chicago PD S10 E18
+ http://5ce.co:80/series/502031j/528351/222363.mp4
 #EXTINF:-1 tvg-name="Chicago PD S10 E19" tvg-logo="http://5ce.co:80/images/3k9YHHlENlcIT8g2BqeXsaDI2Hh_big.jpg" group-title="Amazon Prime Video",Chicago PD S10 E19
  http://5ce.co:80/series/502031j/528351/222795.mp4
 #EXTINF:-1 tvg-name="Chicago PD S10 E20" tvg-logo="http://5ce.co:80/images/3k9YHHlENlcIT8g2BqeXsaDI2Hh_big.jpg" group-title="Amazon Prime Video",Chicago PD S10 E20
